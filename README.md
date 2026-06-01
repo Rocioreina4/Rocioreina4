@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm a Student in Computer Science, in Universidad de El Salvador. I love front-end and back-end programming. I love learning and creating something new, creative and productive. I love orange juice 🧃 and cold 🥶.
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...<br>
     -Java <br>
     -Spring <br>
     -Javascript<br>
