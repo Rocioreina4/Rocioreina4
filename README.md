@@ -36,7 +36,7 @@ I'm a Student in Computer Science, in Universidad de El Salvador. I love front-e
 
 
 ### 🛠 &nbsp;Tech Stack
-<img alt="Angry error" width="520" height="200" alt="download" src="https://github.com/user-attachments/assets/69bf019b-6032-442d-9e2e-4b7b1fe101a5" align="right"/>
+<img alt="Angry error" width="480" height="200" alt="download" src="https://github.com/user-attachments/assets/69bf019b-6032-442d-9e2e-4b7b1fe101a5" align="right"/>
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
