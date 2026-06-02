@@ -61,7 +61,7 @@ I'm a Student in Computer Science, in Universidad de El Salvador. I love front-e
 </p>
 
 <p align="center">
-  <img src="https://github.com/Rocioreina4/Rocioreina4/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+  <img src="https://github.com/Rocioreina4/Rocioreina4/raw/output/github-snake-dark.svg" alt="snake"></center>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
